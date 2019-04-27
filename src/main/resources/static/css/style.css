@@ -1,0 +1,47 @@
+
+.box {
+	border: 1px solid red;
+}
+
+hr {
+	border: none ;
+	height: 1px;
+	color: #333;
+	background-color: #333;
+}
+
+.container {
+	width: 90%;
+}
+
+.page-top {
+	
+}
+
+.home-headline {
+	font-family: 'Times New Roman',Times,Serif;
+	font-size: 24px;
+	color: #fff;
+	margin: auto;
+	margin-top: -13px;
+	text-align: center;
+}
+
+.home-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+}
+
+.section-headline {
+	font-family: 'Times New Roman',Times,Serif;
+	font-size: 24px;
+	color: #fff;
+	margin: auto;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.section-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+}
